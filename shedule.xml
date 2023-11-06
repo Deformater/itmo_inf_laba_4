@@ -15,8 +15,8 @@
         <weeks>8</weeks>
         <weeks>9</weeks>
         <time>
-          <start>"8:20"</start>
-          <end>"9:50"</end>
+          <start>8:20</start>
+          <end>9:50</end>
         </time>
       </datetime>
       <visit>Очно</visit>
